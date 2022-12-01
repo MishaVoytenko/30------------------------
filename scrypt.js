@@ -30,5 +30,5 @@ let thirdNumber = Math.floor(number / 100);
 console.log(thirdNumber);
 let thirdResult = thirdNumber % 10;
 console.log(thirdResult);
-let result = "firstResult" + "secondResult" + "thirdResult";
+let result = " " + firstResult + secondResult + thirdResult;
 alert(result);
